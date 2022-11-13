@@ -1,0 +1,7 @@
+
+train: ./vehicles/train/images
+test: ./vehicles/test/images
+val: ./vehicles/valid/images
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
